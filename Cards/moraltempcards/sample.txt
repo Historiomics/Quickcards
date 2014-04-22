@@ -1,0 +1,9 @@
+{'situation': {'date': 'Sat Dec 21 13:58:55 2013', 'place': 'I am at home working at the computer.',
+  'qualia': ['I am enjoying myself, quite.', "Slightly tired, but it's a good day so far.",
+  'I am eager to see if this thing even works. :)'],
+  'context': "I am working on writing some Python code that uses Github's Gist API."},
+  'notes': "I had the idea earlier of implementing my moraltempcards script with the Simplegist
+  module so that I could post my moraltempcards directly on-line as Gists.
+  This should work. I hope it does. If it doesn't, it's back to the drawing board for me.
+  I know it's possible, that's not the problem. The problem is never with the concept but with the working prototype,
+  right? Namaste."}
