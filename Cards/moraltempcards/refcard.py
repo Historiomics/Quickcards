@@ -38,6 +38,7 @@ x = updateCard()
 What is the context?: nothing
 What is the moral temperature?: 45
 print x
-[{'temp': 46, 'context': 'at home', 'time': 'Wed Mar 19 10:52:02 2014'}, {'temp': 45, 'context': 'nothing', 'time': 'Wed Mar 19 10:53:00 2014'}]
+[{'temp': 46, 'context': 'at home', 'time': 'Wed Mar 19 10:52:02 2014'},
+{'temp': 45, 'context': 'nothing', 'time': 'Wed Mar 19 10:53:00 2014'}]
  
 """
